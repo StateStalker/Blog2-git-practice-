@@ -32,7 +32,6 @@ class ArticlesController < ApplicationController
       redirect_to @article
     else
       render :edit, status: :unprocessable_entity
-    
   end
 end
 
