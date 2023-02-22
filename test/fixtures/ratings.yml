@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  like: MyString
+  article: one
+
+two:
+  like: MyString
+  article: two
